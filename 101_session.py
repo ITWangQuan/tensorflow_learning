@@ -1,3 +1,4 @@
+#tensorflow session
 import tensorflow as tf
 m1 = tf.constant([[2,2]])
 m2 = tf.constant([[3],[3]])
